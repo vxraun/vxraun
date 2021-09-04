@@ -152,8 +152,7 @@ print('Press "E" to noclip')
 local Credits = Window:NewTab("Credits")
 local CreditsSection = Credits:NewSection("Credits")
 CreditsSection:NewLabel("DM aun 0123 for any problems..")
-CreditsSection:NewLabel("Script by aun (all done by me), kur helped with 
-noclip and fly.")
+CreditsSection:NewLabel("Script by aun all done by me and kur helped with noclip and fly")
 
 
         
